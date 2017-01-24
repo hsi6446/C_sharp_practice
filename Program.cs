@@ -28,12 +28,12 @@ namespace Practice
                     C# programs use the .NET Framework class library extensively to do common tasks and provide various functionalities.
 
               *해석: The .NET Framework는 Common Language Runtime (CLR) 과 the .NET Framework class library로 구성된다. 
-                    The CLR은 the .NET Framework를 기초로 한다. CRL은 실행시간에 memory management(메모리 관리), code accuracy(코드 정확도), 그리고 다른 여러 코드의 핵심 서비스를 제공하며 코드를 관리한다.
-                    클래스 라이브러리는 클래스의 집합이자, 인터페이스들이고, 데이터 콜렉션과 파일 엑세스와 텍스트로 동작하는 것과 같은 일반 프로그래밍 업무의 범위를 가능하게 하는 값 형식들(value types)이다.
-                    C# 프로그램은 The .NET Framework 클래스 라이브러리를 일반 업무와 다양한 함수를 제공하기 위해 광범위하게 사용한다.
+                    The CLR은 the .NET Framework의 기초다. CRL은 실행 시간에 코드를 관리하고 memory management(메모리 관리), code accuracy(코드 정확도), 그리고 다른 여러 코드의 핵심 서비스를 제공한다.
+                    클래스 라이브러리는 클래스, 인터페이스, 값 형식들(value types)의 집합으로 데이터 콜렉션, 파일 엑세스와 텍스트 작업 같은 일반 프로그래밍 범위에 속하는 업무를 할 수 있게끔 해준다.
+                    C# 프로그램은 일반적인 업무를 수행하고 다양한 함수를 제공하기 위해 The .NET Framework 클래스 라이브러리를 광범위하게 사용한다. 
 
              * These concepts might seem complex, but for now just remember that applications written in C# use the .NET Framework and its components.
-             * 이 개념들이 언뜻 복잡하게 보일수도 있다. 지금은 일단 C# 어플리케이션이 .NET Framework와 .NET Framework의 컴포넌트를 이용해 쓰여졌다는 것만 기억하자.
+             * 이 개념들이 복잡하게 보일 수도 있다. 지금은 일단 C#으로 쓰여진 어플리케이션이 .NET Framework와 .NET Framework의 컴포넌트를 이용한다는 것을 기억하라.
              
 
 
